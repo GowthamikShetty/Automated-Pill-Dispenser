@@ -136,5 +136,7 @@ Android
 * Add voice reminder
 
 ❤️ Author
-Developed by GOWTHAMI K SHETTY,LAVANI SAMEERRA BANU,MANGALAMPETA HARSHITHA
+Developed by GOWTHAMI K SHETTY,
+LAVANI SAMEERRA BANU,
+MANGALAMPETA HARSHITHA
 Feel free to contribute or improve the project!
